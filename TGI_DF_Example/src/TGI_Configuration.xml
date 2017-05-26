@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="The Great Idea test cases" parallel="false">	
+			
+	
+	<test name="Device Farm execution"> <!--- Application type of test -->
+		<classes>
+			<class name="tests.TestLogin"/> <!--- Test to execute -->
+		</classes>		
+	</test>
+</suite>
